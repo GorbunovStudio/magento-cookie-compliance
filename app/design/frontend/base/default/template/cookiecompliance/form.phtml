@@ -2,7 +2,7 @@
 <?php if($helper->isEnable()){ ?>
 <div class="class="cc-window"></div>
 <?php } ?>
- <?php if($_COOKIE['cookieconsent_status'] == "allow"){ ?> 
+<?php if(isset($_COOKIE['cookieconsent_status']) && $_COOKIE['cookieconsent_status'] == "allow"){ ?>
 		<?php if($helper->isGoogleEnable()){ ?>
 				<!-- Google Analytics Code -->
 				<script>
@@ -39,7 +39,7 @@
 	<?php } ?>		
 
 <script>
-<?php if($_COOKIE['cookieconsent_status'] == ""){ ?> 
+    <?php if( !isset($_COOKIE['cookieconsent_status']) || $_COOKIE['cookieconsent_status'] == ""){ ?>
   var p;
  cookieconsent.initialise({
     type: 'opt-in',
