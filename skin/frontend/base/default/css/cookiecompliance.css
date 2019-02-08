@@ -1,0 +1,30 @@
+/* CSS Document */
+.top{
+  margin-left: 0;
+  padding: 5px 0;
+  text-align: left;
+  float:left;
+}
+.massage {
+  float: left;
+  padding: 5px 10px;
+  width: 80%;
+}
+.buttons {
+  display: table;
+  text-align: center;
+  width: 20%;
+}
+.btn {
+  border: medium none;
+  height: 30px;
+  padding: 0 15px;
+  width:50%;	
+}
+.bottom{
+  bottom: 0;
+  position: fixed;
+  padding: 5px 0;
+  width: 100%;
+  z-index:1000;
+}

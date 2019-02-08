@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Magecomp_Cookiecompliance</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Magecomp</summary>
+    <description>Magecomp</description>
+    <notes>magecomp</notes>
+    <authors><author><name>magecomp</name><user>magecomp</user><email>support@magecomp.com</email></author></authors>
+    <date>2018-05-23</date>
+    <time>05:25:34</time>
+    <contents><target name="magelocal"><dir><dir name="Magecomp"><dir name="Cookiecompliance"><dir name="Block"><dir name="Adminhtml"><dir name="System"><dir name="Config"><file name="Editor.php" hash="f33813ae776f09e03458724ef16c58fe"/></dir></dir></dir></dir><dir name="Helper"><file name="Data.php" hash="7d92015e019e5126d3105ef856c6de26"/></dir><dir name="Model"><dir name="Config"><file name="Position.php" hash="6a3518d36e42ffb83db7a078207cd03f"/></dir></dir><dir name="etc"><file name="config.xml" hash="4a69732d90d8090ad6f4b39b1f5bb6e4"/><file name="system.xml" hash="f2f1209a70354f0447c77ffbc4e1df15"/></dir></dir></dir></dir></target><target name="mageetc"><dir><dir name="modules"><file name="Magecomp_Cookiecompliance.xml" hash="53bd9525632ce1f81e17522784484e5a"/></dir></dir></target><target name="mageskin"><dir><dir name="frontend"><dir name="base"><dir name="default"><dir name="css"><file name="cookiecompliance.css" hash="661fafac90a4eb586962b8ec608bd937"/><file name="cookie_additional_style.css" hash="dd4fd1b6d886701761399e4540e7bf0c"/><file name="cookieconsent.min.css" hash="e5b988113d304b1947d4d9ee6e7bb5f2"/></dir></dir></dir></dir></dir></target><target name="magedesign"><dir><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><file name="cookiecompliance.xml" hash="72cbbf30f8d95b4e4745b5e379dcfeb5"/></dir><dir name="template"><dir name="cookiecompliance"><file name="form.phtml" hash="85eaad304b1aa322927b18ebe00c7120"/></dir></dir></dir></dir></dir><dir name="adminhtml"><dir name="default"><dir name="default"><dir name="layout"><file name="cookiecompliance.xml" hash="6476afc00dcb30c1f93f3dd6ed1677b0"/></dir></dir></dir></dir></dir></target><target name="mage"><dir><dir name="js"><file name="cookieconsent.min.js" hash="43209a53b3b2bcd2bfe7f225235c8bea"/></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>7.0.1</max></php></required></dependencies>
+</package>

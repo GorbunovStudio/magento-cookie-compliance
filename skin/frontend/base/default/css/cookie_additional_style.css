@@ -1,0 +1,11 @@
+.cc-window.cc-banner {
+    z-index: 999999;
+}
+.cc-banner .cc-message, .cc-banner .cc-message p {
+    font-size: 14px;
+    line-height: 1.5em;
+}
+.cc-banner .cc-btn:last-child {
+    width: auto;
+    min-width: auto !important;
+}
