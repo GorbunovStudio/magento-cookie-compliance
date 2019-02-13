@@ -1,0 +1,15 @@
+{
+  "name": "GorbunovStudio/magento-cookie-compliance",
+  "description": "Magento Cookie Compliance - Extension for Magento 1.x",
+  "type": "magento-module",
+  "authors": [
+    {
+      "name": "magecomp",
+      "email":"support@magecomp.com"
+    },
+    {
+      "name": "dianasol",
+      "email": "diana-lex@bk.ru"
+    }
+  ]
+}
