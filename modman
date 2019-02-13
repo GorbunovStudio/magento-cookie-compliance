@@ -1,13 +1,6 @@
-app/code/local/Magecomp/Cookicompliance/Block/Adminhtml/System/Config/Editor.php app/code/local/Magecomp/Cookicompliance/Block/Adminhtml/System/Config/Editor.php
-app/code/local/Magecomp/Cookicompliance/etc/config.xml app/code/local/Magecomp/Cookicompliance/etc/config.xml
-app/code/local/Magecomp/Cookicompliance/etc/system.xml app/code/local/Magecomp/Cookicompliance/etc/system.xml
-app/code/local/Magecomp/Cookicompliance/Helper/Data.php app/code/local/Magecomp/Cookicompliance/Helper/Data.php
-app/code/local/Magecomp/Cookicompliance/ModelConfig/Position.php app/code/local/Magecomp/Cookicompliance/ModelConfig/Position.php
+app/code/local/Magecomp/Cookicompliance app/code/local/Magecomp/Cookicompliance
 app/design/adminhtml/default/default/layout/cookiecompliance.xml app/design/adminhtml/default/default/layout/cookiecompliance.xml
-app/design/frontend/base/default/layout/cookiecompliance.xml app/design/frontend/base/default/layout/cookiecompliance.xml
-app/design/frontend/base/default/template/cookiecompliance/form.phtml app/design/frontend/base/default/template/cookiecompliance/form.phtml
+app/design/frontend/base/default app/design/frontend/base/default
 app/etc/modules/Magecomp_Cookiecompliance.xml app/etc/modules/Magecomp_Cookiecompliance.xml
 js/cookieconsent.min.js js/cookieconsent.min.js
-skin/frontend/base/default/css/cookie_additional_style.css skin/frontend/base/default/css/cookie_additional_style.css
-skin/frontend/base/default/css/cookiecompliance.css skin/frontend/base/default/css/cookiecompliance.css
-skin/frontend/base/default/css/cookieconsent.min.css skin/frontend/base/default/css/cookieconsent.min.css
+skin/frontend/base/default/css skin/frontend/base/default/css
