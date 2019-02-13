@@ -1,4 +1,4 @@
-app/code/local/Magecomp/Cookicompliance app/code/local/Magecomp/Cookicompliance
+app/code/local/Magecomp/Cookiecompliance app/code/local/Magecomp/Cookiecompliance
 app/design/adminhtml/default/default/layout/cookiecompliance.xml app/design/adminhtml/default/default/layout/cookiecompliance.xml
 app/design/frontend/base/default app/design/frontend/base/default
 app/etc/modules/Magecomp_Cookiecompliance.xml app/etc/modules/Magecomp_Cookiecompliance.xml
