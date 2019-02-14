@@ -9,9 +9,3 @@
     width: auto;
     min-width: auto !important;
 }
-
-@media screen and (min-width: 1024px) {
-    .cc-banner .cc-message p, .cc-banner .cc-message .cc-link {
-        padding: 0 10%;
-    }
-}
