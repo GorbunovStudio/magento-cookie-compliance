@@ -2,7 +2,7 @@
 <layout version="0.1.0">
     <default>
         <reference name="head">
-            <action method="addCss"><stylesheet>css/cookiecompliance.css</stylesheet></action>
+            <!--<action method="addCss"><stylesheet>css/cookiecompliance.css</stylesheet></action>-->
             <action method="addCss"><stylesheet>css/cookie_additional_style.css</stylesheet></action>
             <action method="addCss"><stylesheet>css/cookieconsent.min.css</stylesheet></action>
 			<action method="addJs">
